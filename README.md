@@ -12,11 +12,14 @@ There is no right or wrong way to host a weekly sit down meeting. Here is a gene
 
 
 1. ### Delegate a different person as the meeting leader every week.
-       Choosing a different person to take lead every week will allow for a fluid line of communication, giving everyone an active role.
+       Choosing a different person to take lead every week will allow for a fluid line of communication, 
+       giving everyone an active role.
 
 
 1. ### Bring your favorite work appropriate beverage.
-       The first thing each person does when it's their turn to speak is to mindfully describe what they are drinking. Is your drink hot or cold? What color is it? Where did you get it? If it's the same beverage as last week you can simply state that or go further into detail about it.
+       The first thing each person does when it's their turn to speak is to mindfully describe what they are drinking. 
+       Is your drink hot or cold? What color is it? Where did you get it? 
+       If it's the same beverage as last week you can simply state that or go further into detail about it.
 
 
 1. ### Similar to a Daily Stand Up, go through the three typical questions but scaled up by a week. Reflect on what you are sharing and feel free to take up to five minutes if you feel the need.
@@ -26,7 +29,9 @@ There is no right or wrong way to host a weekly sit down meeting. Here is a gene
        You can even choose to ask for feedback and insight.
 
 1. ### At the end of each 4-5 week cycle, dissolve the group, form a new one and repeat steps 1 through 4.
-       Changing groups at the end of every cycle will keep things dynamic, always keep in mind that this serves as an informal networking exercise to promote growth and to learn about what your peers are working on.
+       Changing groups at the end of every cycle will keep things dynamic, 
+       always keep in mind that this serves as an informal networking 
+       exercise to promote growth and to learn about what your peers are working on.
 
 # The concept for the Weekly Sit Down is a living document and is welcome to contributions from the community.
 
