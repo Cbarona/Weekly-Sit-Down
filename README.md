@@ -17,7 +17,8 @@ There is no right or wrong way to host a weekly sit down meeting. Here is a gene
 
 
 1. ### Bring your favorite work appropriate beverage.
-       The first thing each person does when it's their turn to speak is to mindfully describe what they are drinking. 
+       The first thing each person does when it's their turn to speak is to mindfully
+       describe what they are drinking. 
        Is your drink hot or cold? What color is it? Where did you get it? 
        If it's the same beverage as last week you can simply state that or go further into detail about it.
 
