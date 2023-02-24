@@ -1,5 +1,5 @@
 # Weekly-Sit-Down
-![TeaTime](teatime.jpg)
+![TeaTime](github/Weekly-Sit-Down/teatime.jpg)
 
 A semi casual version of a Daily Standup 
 
