@@ -1,4 +1,6 @@
 # Weekly-Sit-Down
+![TeaTime](teatime.jpg)
+
 A semi casual version of a Daily Standup 
 
 ## The purpose of a Weekly Sit Down
